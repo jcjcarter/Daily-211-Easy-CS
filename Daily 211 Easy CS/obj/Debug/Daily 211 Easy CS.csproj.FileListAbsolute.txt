@@ -1,0 +1,6 @@
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 211 Easy CS\Daily 211 Easy CS\bin\Debug\Daily 211 Easy CS.exe.config
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 211 Easy CS\Daily 211 Easy CS\obj\Debug\Daily 211 Easy CS.csprojResolveAssemblyReference.cache
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 211 Easy CS\Daily 211 Easy CS\bin\Debug\Daily 211 Easy CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 211 Easy CS\Daily 211 Easy CS\bin\Debug\Daily 211 Easy CS.pdb
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 211 Easy CS\Daily 211 Easy CS\obj\Debug\Daily 211 Easy CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 211 Easy CS\Daily 211 Easy CS\obj\Debug\Daily 211 Easy CS.pdb
